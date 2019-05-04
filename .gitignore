@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+icssfront.iml
+package-lock.json
+yarn.lock
+*-bak.*
+
+# Dependency directories
+node_modules/
+package-lock.json
+# Optional eslint cache
+.eslintcache
+/.DS_Store
+dist/
+dist
+.idea
+
+.vscode
+/.idea
+/dist
+
+
+# node
+app/
+app/package-lock.json
+app/yarn.lock
+app/logs
+app/node_modules
